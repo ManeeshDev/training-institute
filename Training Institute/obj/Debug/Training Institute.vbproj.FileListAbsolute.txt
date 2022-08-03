@@ -1,0 +1,49 @@
+D:\Manish\VB @VTA_DIP_2019\Training Institute\Training Institute\bin\Debug\Training Institute.exe.config
+D:\MP_ Works\VB @VTA_DIP_2019\Training Institute\Training Institute\bin\Debug\Training Institute.exe.config
+D:\MP_ Works\VB @VTA_DIP_2019\Training Institute\Training Institute\bin\Debug\Training Institute _Db.mdf
+D:\MP_ Works\VB @VTA_DIP_2019\Training Institute\Training Institute\bin\Debug\Training Institute _Db_log.ldf
+D:\MP_ Works\VB @VTA_DIP_2019\Training Institute\Training Institute\bin\Debug\Training Institute.exe
+D:\MP_ Works\VB @VTA_DIP_2019\Training Institute\Training Institute\bin\Debug\Training Institute.pdb
+D:\MP_ Works\VB @VTA_DIP_2019\Training Institute\Training Institute\bin\Debug\Training Institute.xml
+D:\MP_ Works\VB @VTA_DIP_2019\Training Institute\Training Institute\obj\Debug\Training_Institute.Resources.resources
+D:\MP_ Works\VB @VTA_DIP_2019\Training Institute\Training Institute\obj\Debug\Training Institute.vbproj.GenerateResource.Cache
+D:\MP_ Works\VB @VTA_DIP_2019\Training Institute\Training Institute\obj\Debug\Training Institute.exe
+D:\MP_ Works\VB @VTA_DIP_2019\Training Institute\Training Institute\obj\Debug\Training Institute.xml
+D:\MP_ Works\VB @VTA_DIP_2019\Training Institute\Training Institute\obj\Debug\Training Institute.pdb
+D:\MP_ Works\VB @VTA_DIP_2019\Training Institute\Training Institute\obj\Debug\Training_Institute.frmCourses.resources
+D:\MP_ Works\VB @VTA_DIP_2019\Training Institute\Training Institute\obj\Debug\Training_Institute.frmStudents.resources
+D:\MP_ Works\VB @VTA_DIP_2019\Training Institute\Training Institute\obj\Debug\Training_Institute.frmCourseModule.resources
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\bin\Debug\Training Institute _Db.mdf
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\bin\Debug\Training Institute _Db_log.ldf
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\bin\Debug\Training Institute.exe.config
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\bin\Debug\Training Institute.exe
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\bin\Debug\Training Institute.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\bin\Debug\Training Institute.xml
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\obj\Debug\Training Institute.vbproj.AssemblyReference.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\obj\Debug\Training Institute.vbproj.SuggestedBindingRedirects.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\obj\Debug\Training_Institute.frmCourses.resources
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\obj\Debug\Training_Institute.frmStudents.resources
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\obj\Debug\Training_Institute.frmCourseModule.resources
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\obj\Debug\Training_Institute.Resources.resources
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\obj\Debug\Training Institute.vbproj.GenerateResource.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\obj\Debug\Training Institute.vbproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\obj\Debug\Training Institute.exe
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\obj\Debug\Training Institute.xml
+D:\MP_ Works\My Dev Projects\Vb .net\Training Institute\Training Institute\obj\Debug\Training Institute.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\bin\Debug\Training Institute _Db.mdf
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\bin\Debug\Training Institute _Db_log.ldf
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\bin\Debug\Training Institute.exe.config
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\bin\Debug\Training Institute.exe
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\bin\Debug\Training Institute.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\bin\Debug\Training Institute.xml
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\obj\Debug\Training Institute.vbproj.AssemblyReference.cache
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\obj\Debug\Training Institute.vbproj.SuggestedBindingRedirects.cache
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\obj\Debug\Training_Institute.frmCourses.resources
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\obj\Debug\Training_Institute.frmStudents.resources
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\obj\Debug\Training_Institute.frmCourseModule.resources
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\obj\Debug\Training_Institute.Resources.resources
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\obj\Debug\Training Institute.vbproj.GenerateResource.cache
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\obj\Debug\Training Institute.vbproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\obj\Debug\Training Institute.exe
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\obj\Debug\Training Institute.xml
+D:\MP_ Works\My Dev Projects\Vb .net\training-institute - Copy\Training Institute\obj\Debug\Training Institute.pdb
